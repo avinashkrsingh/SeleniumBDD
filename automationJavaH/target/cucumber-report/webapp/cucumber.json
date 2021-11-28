@@ -1,0 +1,101 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 27,
+        "name": "Negative combinations for user login scenarios",
+        "description": "",
+        "id": "lloydspharmacy-i-would-like-to-register-so-i-can;negative-combinations-for-user-login-scenarios;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 299600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ScreenshotHook.embedScreenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10201042900,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "i navigate to the Lloydspharmacy \"HOME\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "HOME",
+                  "offset": 34
+                }
+              ],
+              "location": "NavigationSteps.i_navigate_to_the_website_page(String)"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@gui"
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "name": "Negative combinations for user login scenarios",
+        "description": "",
+        "id": "lloydspharmacy-i-would-like-to-register-so-i-can;negative-combinations-for-user-login-scenarios;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 246700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ScreenshotHook.embedScreenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4843074100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "i navigate to the Lloydspharmacy \"HOME\" page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "HOME",
+                  "offset": 34
+                }
+              ],
+              "location": "NavigationSteps.i_navigate_to_the_website_page(String)"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@gui"
+          }
+        ]
+      }
+    ],
+    "name": "Lloydspharmacy I would like to register so I can",
+    "description": "",
+    "id": "lloydspharmacy-i-would-like-to-register-so-i-can",
+    "keyword": "Feature",
+    "uri": "file:/C:/Users/Avinash%20Kumar%20Singh/Downloads/cucumber_testng_java-master/src/test/resources/features/web/WebRegister.feature",
+    "tags": []
+  }
+]
